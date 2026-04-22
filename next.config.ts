@@ -5,8 +5,7 @@ const nextConfig: NextConfig = {
   images: {
     unoptimized: true,
   },
-  basePath: "/oktripage.github.io", // 👈 repo name
-  assetPrefix: "/oktripage.github.io/",
+  basePath: "/oktripage.github.io",
 };
 
 export default nextConfig;
