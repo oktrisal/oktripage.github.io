@@ -9,7 +9,7 @@ export const projects = [
   {
     title: "Twitter Clone",
     image: "/oktripage.github.io/images/TwitterClone.png",
-    description: "- Twitter Clone for practicing purposes. Focused on functionality and communication to the database \n \n Consists of : Homepage, Login, Register, Profile Page and multiple Routes \n \n Functionalities: Comment section on posts, Upvote & Downvote system and ability to delete posts. \n \n - All posts, comments, accounts, votes are stored inside a DB.  ",
+    description: "- Twitter Clone for practicing purposes. Focused on functionality and database communication \n \n Consists of : Homepage, Login, Register, Profile Page and multiple Routes \n \n Functionalities: Comment section on posts, Upvote & Downvote system and ability to delete posts. \n \n - All posts, comments, accounts, votes are stored inside a DB.  ",
     tech: " Tech: Next.JS HTML CSS(Tailwind) TypeScript SQLITE3",
     impact: "",
   },
